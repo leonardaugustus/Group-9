@@ -1,0 +1,29 @@
+﻿﻿# Identitas AG. Validity: 2024-03-31. Evaluated: 2024-04-15
+canton;count;countPerSurfacekm2;countPer100Inhabitants;top5breeds;top5names
+Graubünden;63684;9.00000000000000;31.80000000000000;Braunvieh  24204, Kreuzung  16207, Angus  5900, Original Braunvieh  5520, Limousin  3713;Bella  243, Fiona  209, Nora  187, Luna  178, Sina  174
+Bern;274095;46.90000000000000;26.30000000000000;Swiss Fleckvieh  63790, Simmental  46742, Red Holstein  44110, Holstein  42632, Kreuzung  34032;Bella  950, Fiona  898, Bianca  774, Sina  734, Diana  702
+Valais;29359;5.60000000000000;8.40000000000000;Eringer  12936, Simmental  2398, Braunvieh  2278, Swiss Fleckvieh  2205, Kreuzung  2112;Bella  81, Tina  68, Flora  65, Luna  52, Maya  51
+Vaud;91970;32.60000000000000;11.30000000000000;Red Holstein  15486, Montbéliarde  14690, Holstein  13789, Kreuzung  11537, Angus  11061;Bella  154, Tulipe  129, Iris  124, Etoile  113, Noisette  113
+Ticino;8885;3.20000000000000;2.50000000000000;Braunvieh  3418, Kreuzung  1880, Highland Cattle  1220, Holstein  873, Original Braunvieh  491;Luna  46, Tina  32, Stella  30, Nora  29, Bella  26
+St. Gallen;119570;61.30000000000000;23.20000000000000;Braunvieh  54717, Kreuzung  24674, Holstein  17238, Original Braunvieh  8372, Red Holstein  8208;Bella  535, Lisa  369, Fiona  348, Bianca  347, Nora  341
+Zürich;72924;43.90000000000000;4.70000000000000;Kreuzung  25015, Braunvieh  16675, Holstein  15752, Red Holstein  7863, Limousin  5984;Bella  250, Luna  181, Fiona  178, Sina  168, Tina  165
+Fribourg;116600;73.09999999999999;35.80000000000000;Holstein  46517, Red Holstein  30439, Swiss Fleckvieh  15383, Kreuzung  9160, Limousin  7426;Bella  231, Tulipe  156, Etoile  153, Iris  148, Alaska  144
+Luzern;121870;85.30000000000000;29.30000000000000;Kreuzung  31869, Holstein  26392, Braunvieh  25043, Red Holstein  14368, Swiss Fleckvieh  13250;Bella  549, Sina  394, Fiona  369, Bianca  353, Tina  350
+Aargau;62372;44.70000000000000;9.00000000000000;Kreuzung  25367, Holstein  14990, Limousin  8957, Red Holstein  7685, Braunvieh  6658;Bella  209, Sina  158, Fiona  151, Tina  148, Anna  137
+Uri;9993;9.50000000000000;27.10000000000000;Braunvieh  5310, Original Braunvieh  2011, Kreuzung  1095, Holstein  370, Angus  330;Bella  60, Bianca  50, Belinda  45, Luna  45, Sina  44
+Thurgau;59617;69.09999999999999;21.10000000000000;Holstein  16889, Braunvieh  16299, Kreuzung  14319, Red Holstein  8305, Swiss Fleckvieh  3347;Bella  191, Lisa  170, Sina  154, Fiona  138, Bianca  130
+Schwyz;39471;46.40000000000000;24.30000000000000;Braunvieh  19206, Original Braunvieh  7110, Kreuzung  6122, Holstein  3186, Limousin  1514;Bella  178, Sina  149, Bianca  120, Fiona  119, Tina  119
+Jura;47387;56.50000000000000;64.30000000000000;Holstein  11456, Limousin  9311, Kreuzung  7937, Red Holstein  7918, Montbéliarde  5998;Bella  95, Vanille  73, Nina  68, Tulipe  64, Lola  63
+Neuchâtel;37152;51.80000000000000;21.10000000000000;Red Holstein  8766, Holstein  7788, Montbéliarde  4956, Kreuzung  4255, Swiss Fleckvieh  3916;Bella  62, Tulipe  55, Nina  52, Noisette  52, Cerise  51
+Solothurn;33927;42.90000000000000;12.20000000000000;Holstein  8296, Kreuzung  7192, Red Holstein  5458, Swiss Fleckvieh  5001, Limousin  2977;Bella  129, Fiona  104, Sina  90, Diana  84, Bianca  83
+Glarus;11084;16.30000000000000;27.10000000000000;Braunvieh  5462, Kreuzung  2033, Original Braunvieh  1954, Holstein  609, Limousin  342;Bianca  58, Bella  56, Nora  53, Nina  50, Fiona  45
+Basel-Landschaft;22021;42.50000000000000;7.60000000000000;Kreuzung  5280, Holstein  4253, Red Holstein  4054, Swiss Fleckvieh  2711, Angus  2266;Sina  66, Bella  64, Lena  59, Fiona  55, Nina  53
+Obwalden;17000;35.40000000000000;44.60000000000000;Braunvieh  9932, Original Braunvieh  1973, Kreuzung  1807, Holstein  907, Swiss Fleckvieh  740;Bella  104, Hanna  78, Bianca  74, Sina  74, Alma  73
+Nidwalden;10562;43.80000000000000;24.30000000000000;Braunvieh  5327, Kreuzung  1803, Original Braunvieh  1215, Holstein  593, Limousin  552;Bella  52, Sina  52, Arnika  46, Hanna  44, Nora  43
+Genève;2261;9.20000000000000;0.40000000000000;Limousin  517, Kreuzung  324, Braunvieh  303, Aubrac  267, Parthenaise  235;Bella  5
+Schaffhausen;9027;30.30000000000000;10.90000000000000;Kreuzung  7300, Limousin  2163, Red Holstein  1567, Holstein  1200, Swiss Fleckvieh  884;Bruno  28, Leo  23, Bella  22, Max  22, Pia  21
+Appenzell Ausserrhoden;19965;82.20000000000000;36.10000000000000;Braunvieh  13733, Kreuzung  2678, Original Braunvieh  2366, Holstein  603, Limousin  527;Bella  115, Lisa  89, Fiona  81, Belinda  76, Gabi  69
+Zug;15651;75.59999999999999;12.20000000000000;Braunvieh  5604, Kreuzung  4307, Holstein  2804, Original Braunvieh  1425, Limousin  1132;Vreni  82, Bella  57, Sina  51, Luna  45, Heidi  42
+Appenzell Innerrhoden;12771;74.00000000000000;78.40000000000001;Braunvieh  9065, Kreuzung  1586, Original Braunvieh  909, Limousin  623, Holstein  620;Bella  68, Flora  57, Fiona  55, Sina  50, Blüemli  43
+Basel-Stadt;231;6.30000000000000;0.10000000000000;Limousin  120, Normande  33, Simmental  25, Kreuzung  24, Angus  13;
+Liechtenstein;4856;30.30000000000000;12.40000000000000;Kreuzung  2088, Braunvieh  1432, Holstein  928, Limousin  442, Red Holstein  369;Bruno  85, Bruna  69, Sina  20, Bella  19, Nora  17

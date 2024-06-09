@@ -1,0 +1,29 @@
+canton,count,count_per_surface_km2,count_per_100_inhabitants,top_5_breeds,top_5_names
+Aargau,4061.0,2.9,0.6,"Zwergziege  860, Kreuzung  744, Andere  453, Burenziege  423, Gaemsfarbige_Gebirgsziege  367","Flöckli  27, Luna  24, Max  18, Mia  17, Bella  16"
+Appenzell Ausserrhoden,2169.0,8.9,3.9,"Appenzellerziege  1215, Zwergziege  290, Burenziege  150, Andere  103, Toggenburgerziege  79","Flöckli  23, Enzian  11, Lea  11, Gemsli  10, Lisa  10"
+Appenzell Innerrhoden,1100.0,6.4,6.8,"Appenzellerziege  704, Kreuzung  73, Burenziege  56, Andere  55, Gaemsfarbige_Gebirgsziege  43","Enzian  7, Lea  7, Mira  7, Blüemli  6, Ella  6"
+Basel-Landschaft,1294.0,2.5,0.4,"Zwergziege  317, Burenziege  227, Andere  156, Buendner_Strahlenziege  138, Kreuzung  108","Flöckli  12, Luna  12, Lisa  10, Fiona  7, Mia  7"
+Basel-Stadt,136.0,3.7,0.1,"Zwergziege  57, Gaemsfarbige_Gebirgsziege  34, Andere  15, Kreuzung  7, Saanenziege  7",
+Bern,20898.0,3.6,2.0,"Saanenziege  5002, Gaemsfarbige_Gebirgsziege  4703, Zwergziege  2192, Andere  1847, Kreuzung  1513","Luna  77, Flöckli  71, Sina  71, Emma  70, Lara  69"
+Fribourg,5465.0,3.4,1.7,"Gaemsfarbige_Gebirgsziege  2447, Zwergziege  880, Saanenziege  611, Andere  325, Toggenburgerziege  320","Heidi  16, Noisette  15, Luna  14, Edelweiss  13, Daisy  12"
+Genève,337.0,1.4,0.1,"Toggenburgerziege  95, Zwergziege  76, Gaemsfarbige_Gebirgsziege  39, Kreuzung  34, Andere  32",
+Glarus,2246.0,3.3,5.5,"Andere  453, Kreuzung  435, Gaemsfarbige_Gebirgsziege  318, Burenziege  234, Buendner_Strahlenziege  219","Susi  13, Sina  11, Bella  10, Heidi  9, Flöckli  8"
+Graubünden,11882.0,1.7,5.9,"Andere  2422, Buendner_Strahlenziege  2146, Kreuzung  2081, Gaemsfarbige_Gebirgsziege  1604, Capra_Grigia  768","Luna  47, Bella  36, Nera  36, Bianca  34, Lena  33"
+Jura,3314.0,4.0,4.5,"Saanenziege  1767, Gaemsfarbige_Gebirgsziege  332, Zwergziege  331, Kreuzung  184, Andere  177","Blanchette  7, Noisette  7, Bella  6, Canelle  6, Mirabelle  6"
+Liechtenstein,433.0,2.7,1.1,"Buendner_Strahlenziege  140, Saanenziege  75, Gaemsfarbige_Gebirgsziege  55, Andere  46, Kreuzung  40",
+Luzern,7656.0,5.4,1.8,"Saanenziege  1703, Gaemsfarbige_Gebirgsziege  1206, Zwergziege  882, Buendner_Strahlenziege  757, Toggenburgerziege  681","Bella  36, Flöckli  34, Lotti  29, Luna  24, Tina  24"
+Neuchâtel,1214.0,1.7,0.7,"Gaemsfarbige_Gebirgsziege  406, Zwergziege  213, Andere  141, Buendner_Strahlenziege  113, Saanenziege  101","Biquette  6, Lili  5, Noisette  5"
+Nidwalden,1708.0,7.1,3.9,"Andere  343, Toggenburgerziege  273, Burenziege  262, Kreuzung  224, Gaemsfarbige_Gebirgsziege  161","Sina  9, Flora  8, Bianca  7, Carla  6, Lea  6"
+Obwalden,1791.0,3.7,4.7,"Burenziege  365, Gaemsfarbige_Gebirgsziege  340, Saanenziege  215, Kreuzung  185, Toggenburgerziege  154","Mira  10, Lisa  8, Flöckli  6, Lotti  6, Mia  6"
+Schaffhausen,342.0,1.1,0.4,"Zwergziege  69, Andere  39, Buendner_Strahlenziege  39, Nera_Verzascaziege  28, Toggenburgerziege  28",
+Schwyz,5449.0,6.4,3.4,"Toggenburgerziege  1247, Andere  743, Burenziege  730, Gaemsfarbige_Gebirgsziege  507, Kreuzung  439","Sina  23, Fiona  22, Luna  22, Flöckli  20, Lisa  18"
+Solothurn,2572.0,3.3,0.9,"Saanenziege  810, Zwergziege  372, Burenziege  272, Buendner_Strahlenziege  261, Andere  205","Luna  17, Lina  11, Lena  10, Mia  10, Bella  9"
+St. Gallen,11635.0,6.0,2.3,"Gaemsfarbige_Gebirgsziege  1951, Toggenburgerziege  1663, Appenzellerziege  1641, Andere  999, Kreuzung  889","Flöckli  71, Luna  46, Bella  42, Mia  42, Fiona  41"
+Thurgau,2425.0,2.8,0.9,"Zwergziege  519, Andere  280, Gaemsfarbige_Gebirgsziege  264, Kreuzung  242, Appenzellerziege  194","Flöckli  17, Mona  14, Luna  13, Emma  10, Max  10"
+Ticino,11514.0,4.2,3.3,"Andere  3980, Nera_Verzascaziege  2491, Kreuzung  1329, Gaemsfarbige_Gebirgsziege  1112, Saanenziege  840","Nera  180, Bianca  51, Nazza  41, Ignazza  34, Nero  32"
+Uri,2183.0,2.1,5.9,"Burenziege  354, Gaemsfarbige_Gebirgsziege  307, Andere  290, Toggenburgerziege  249, Kreuzung  234","Lina  12, Bella  9, Lisi  9, Luna  9, Nora  9"
+Valais,8132.0,1.6,2.3,"Walliser_Schwarzhalsziege  2350, Gaemsfarbige_Gebirgsziege  1654, Andere  1192, Zwergziege  598, Kreuzung  542","Bella  29, Luna  23, Anna  18, Lisa  17, Mia  17"
+Vaud,5951.0,2.1,0.7,"Gaemsfarbige_Gebirgsziege  2664, Zwergziege  875, Kreuzung  511, Andere  406, Saanenziege  399","Noisette  21, Bella  15, Plume  13, Biscotte  12, Julie  12"
+Zug,782.0,3.8,0.6,"Gaemsfarbige_Gebirgsziege  117, Kreuzung  108, Buendner_Strahlenziege  97, Toggenburgerziege  96, Walliser_Schwarzhalsziege  68","Flöckli  6, Mira  5, Sina  5"
+Zürich,4785.0,2.9,0.3,"Zwergziege  948, Andere  712, Kreuzung  503, Gaemsfarbige_Gebirgsziege  472, Burenziege  431","Flöckli  30, Luna  29, Sina  21, Max  19, Bella  17"
+canton,,,,top5breeds,top5names

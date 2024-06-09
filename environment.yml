@@ -1,0 +1,32 @@
+name: vdss_project
+channels:
+  - conda-forge
+  - bokeh
+dependencies:
+  - cartopy=0.21.1
+  - geopandas=0.14.2
+  - geoplot=0.5.1
+  - geopy=2.4.1
+  - ipywidgets
+  - jupyterlab=4.0.11
+  - jupyter_bokeh=3.0.7
+  - mapclassify=2.6.1
+  - matplotlib=3.8.2
+  - networkx=3.2.1
+  - numpy
+  - openpyxl=3.1.2
+  - pandas=2.2.0
+  - pip
+  - plotly=5.18.0
+  - python=3.10
+  - seaborn=0.13.2
+  - squarify=0.4.3
+  - statsmodels=0.14.1
+  - tabulate=0.9.0
+  - unidecode
+  - pip:
+      - python-dotenv==0.21.1
+      - sankeyflow==0.3.8
+      - streamlit==1.31.1
+      - matplotlib-venn==0.11.10
+      - ydata-profiling==4.6.4

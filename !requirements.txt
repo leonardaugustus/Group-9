@@ -1,0 +1,8 @@
+geopandas
+pandas
+folium
+unidecode
+matplotlib
+seaborn
+streamlit
+streamlit.components.v1
