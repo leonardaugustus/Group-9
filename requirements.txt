@@ -6,3 +6,5 @@ matplotlib
 seaborn
 streamlit
 streamlit.components.v1
+streamlit-option-menu
+plotly
